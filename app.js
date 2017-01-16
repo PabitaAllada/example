@@ -1,7 +1,7 @@
-function log()
+function log(str)
 {
-	console.log('First js program! Commited!!');
+	console.log(str);
 	
 }
 
-log();
+log('This is first js program');
