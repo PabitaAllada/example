@@ -1,1 +1,7 @@
-console.log('First js program');
+function log()
+{
+	console.log('First js program! Commited!!');
+	
+}
+
+log();
