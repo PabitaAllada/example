@@ -4,4 +4,5 @@ function log(str)
 	
 }
 
-log('This is first js program');
+log('This is my');
+log('first JS program');
